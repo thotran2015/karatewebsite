@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+
+      <h1>Please enter your mood level</h1>
+      <br>
+      <form action="" method="post">
+
+        <input type="range" id="myRange" name = "level" value="{{
+          request.form.level }}" >
+          <br>
+        <input type="submit" value="Done">
+          <h5>Your current mood level : {{level}}</h5>
+          <script>
+          function myFunction() {
+            var x = document.getElementById("myRange").value;
+          }
+          </script>
+        <!-- <input type="text" placeholder="Username" name="username" value="{{
+          request.form.username }}">
+         <input type="password" placeholder="Password" name="password" value="{{
+          request.form.password }}">
+        <input class="btn btn-default" type="submit" value="Login"> -->
+      </form>
+
+
+{% endblock %}

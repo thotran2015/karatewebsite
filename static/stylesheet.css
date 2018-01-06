@@ -1,0 +1,73 @@
+#background-video{
+  position: fixed;
+  /*top: 0%;
+  left: 0%;*/
+  right: 0%;
+  bottom: 0%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  background-size: auto;
+
+
+}
+
+/*<!-- Modal for News-->
+<div class="modal-1 fade" id="myModal" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+          <h4 class="modal-title">Club Update</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p>I hope you all enjoyed the practice and discussion yesterday! As you saw, we've had so many wonderful events and you should all be very proud to be a part of this growing club! Think back on your starting days only a few months ago for many of you, and look at how far you have come. This should help motivate you to reach even higher and improve your karate even further.
+Also I hope you take the lesson from the live commenting to heart: the fastest way to improve your technique is to be able to see yourself doing it, and also know what errors to look for to fix. All of you can gain this skill, and part of becoming a black belt is not only having proper technique, but being able to identify any errors in yourself or others and know how to fix them. You will gain it with time and patience.
+Lastly, I hope you all are excited for the steps moving ahead! Once Lillie's video is released we will share it with you all, and keep it mind we will be having Karate practice on the sailing pavilion on Wednesday, July 19th. Also, on Friday, July 14th will be have 'friends of Karate' practice. This practice will be tailored to all your friends who have mentioned in interest in doing karate and this is the day to get them to join. After they see you guys in the video which will be released, they will be begging to join as is.
+<br>
+Vazrik Senpai</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal for News-->
+<div class="modal-2 fade" id="myModal" role="dialog">
+  <div class="modal-dialog">
+<!-- Modal content-->
+<div class="modal-content">
+  <div class="modal-header">
+      <h4 class="modal-title">Club Update</h4>
+    <button type="button" class="close" data-dismiss="modal">&times;</button>
+  </div>
+  <div class="modal-body">
+    <p>What an unforgettable day yesterday was! I'm very proud of all of you, you not only survived Tabata Sensei's promotion but you exceeded my expectations once again.
+    You should look back and remember how many of you beginners joined only 3 months ago with no prior experience, and look at how much you were able to learn in such a short time.
+    I'm happy to not only see your karate skill, but your humility and dedication. Keep training hard, compete with only yourself, and push yourself to higher and higher levels of Karate skill.
+    I'm also glad so many of you came out to the party. You can really feel that we have built a Karate family, and it is only growing and growing! Enjoy the rest of the weekend, and I will see you at practice next week as usual.
+    <br>
+    Promotion
+    <br>
+    We are SO EXCITED to announce our newest:
+    BLACK BELT (SHODAN): Lorraine Sin
+    BROWN BELT (2 Kyu): Anselmo Cassiano Alves
+    PURPLE BELT (4 kyu): Zeng Wing Tan
+    GREEN BELT (5 kyu): Liwen Cai, Qian Xu
+    ORANGE BELTS (7 kyu): Christina Asare, Elisabeth Paczynski, Phạm Quang Nam, Amandine Fromont, Wenyi Jiang
+    YELLOW BELTS (8/9 kyu): Nathali Ye, Shunying Chen, Jithvan Sanketh Ariyaratne, Qiu Yu Hong Lu, Shahzwan Shahrol, Mai-Han Ngyuen, Jack Bouhanna, Bingxu Liu, Nedda Bozorgmehri
+<br>
+Vazrik Senpai</p>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+  </div>
+</div>
+</div>
+</div>*/
